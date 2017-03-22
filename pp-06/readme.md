@@ -12,7 +12,7 @@ For this Production Problem, you and your group are going to establish your grou
 
 5. Each member of the group should fork the repository (including the group member whose account contains was used to create the GitHub organization for your project).
 
-Write the URL for your personal fork of the repository here:
+Write the URL for your personal fork of the repository here: https://github.com/rcoasb96/Project2
 
 6. Each member of the group should clone their forked copy of the repository to his/her computer. Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run `git remote add group` followed by the URL for your group’s repository.
 
