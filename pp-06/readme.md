@@ -4,7 +4,7 @@ For this Production Problem, you and your group are going to establish your grou
 
 1. Choose one member who will create the GitHub Organization for your team. That member can click the + (plus sign) next to their avatar, or go straight to https://github.com/organizations/new As part of that process, the member creating the organization should also invite the other team members (be sure to find out everyone’s GitHub usernames; those work best). GitHub may also ask you to take a survey, which you can take or just skip. Finally, create a new repository within the organization. Initializing it on GitHub with a `README.md` file is fine, unless you’ve already begun a repository on a group member’s computer. **That will be your shared repository for Project 2.**
 
-2. Write the name of your group members here:
+2. Write the name of your group members here: Jingwen Yu, Miguel Paloma, Scott Partacz
 
 3. Copy and paste the URL for your group’s organization here:
 
